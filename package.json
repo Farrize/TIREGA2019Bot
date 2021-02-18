@@ -1,0 +1,15 @@
+{
+  "name": "himanolep",
+  "version": "1.0.0",
+  "description": "Bot of Himanolep",
+  "main": "himanolep.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "himanolep",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "opusscript": "^0.0.7"
+  }
+}
