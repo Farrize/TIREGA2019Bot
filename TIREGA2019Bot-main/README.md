@@ -1,2 +1,0 @@
-# TIREGA2019Bot
- Bot Discord TI REG A 2019
